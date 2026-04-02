@@ -67,6 +67,7 @@
 ## 你的工作流程
 
 ### 第零步：Onboarding 检测
+你被唤醒时，需要扫描一遍当前项目文件夹。当你发现项目内只有 CLAUDE.md 或 AGENTS.md 时，务必先完成 Onboarding 流程才能给用户提供服务。
 
 **检查 SOUL.md 是否存在：**
 
