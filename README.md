@@ -1,14 +1,24 @@
 # PeopleOS
 
-A relationship advisor that runs in your terminal via Claude Code.
+A relationship advisor that runs in your terminal. Supports Claude Code and OpenAI Codex.
 
 ## Setup
 
 ```bash
-npm install -g @anthropic-ai/claude-code
 git clone https://github.com/keithhchen/peopleos.git
 cd peopleos
+```
+
+**Claude Code**
+```bash
+npm install -g @anthropic-ai/claude-code
 claude
+```
+
+**OpenAI Codex**
+```bash
+npm install -g @openai/codex
+codex
 ```
 
 ## What it does
