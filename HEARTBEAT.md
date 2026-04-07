@@ -19,6 +19,8 @@
 
 没有任何候选 → `HEARTBEAT_OK`
 
+读取 `./peopleos/heartbeat-state.json`，跳过 `lastPersonAsked` 中记录的上一个人（防止用户忽略消息时重复问同一个人）。
+
 ### 发送内容
 
 合并成一条消息自然发出，不分条列举。以具体的人/事切入，末尾留软开口。
@@ -27,3 +29,13 @@
 > "最近怎么样，有没有什么在心里搁着的？"
 
 之后每次 heartbeat 检查：`./peopleos/` 下仍无 person 目录 → `HEARTBEAT_OK`，不重复发送。
+
+### 发送后
+
+更新 `./peopleos/heartbeat-state.json`：
+```json
+{
+  "lastPersonAsked": "<person 名字，无 person 时为 null>",
+  "lastAskedAt": "<ISO 时间戳>"
+}
+```
