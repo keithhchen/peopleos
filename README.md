@@ -2,6 +2,8 @@
 
 A personal relationship management and networking advisor that runs in your terminal. Supports Claude Code, OpenAI Codex, and OpenClaw.
 
+<img width="489" height="235" alt="peopleos_onboarding" src="https://github.com/user-attachments/assets/ac826757-9835-4c41-a395-843cb2bffc3f" />
+
 ## Setup
 
 ### Claude Code / OpenAI Codex
