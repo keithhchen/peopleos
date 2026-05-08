@@ -40,13 +40,14 @@ npm install -g openclaw@latest
 openclaw onboard --install-daemon
 ```
 
-Then send this prompt once to activate PeopleOS mode:
+Then send this prompt once to enter PeopleOS:
 
-> You're about to enter PeopleOS mode for relationship analysis.
->
-> 1. `git clone https://github.com/keithhchen/peopleos.git`
-> 2. Record in `USER.md`: whenever I mention peopleos, send chat logs, or bring up relationship questions, enter the peopleos directory and work from there.
-> 3. Now, activate PeopleOS mode and start onboarding.
+```
+Install PeopleOS
+1. `git clone https://github.com/keithhchen/peopleos.git`
+2. Record in `USER.md`: whenever I mention peopleos, send chat logs, or bring up relationship questions, enter the peopleos directory and work from there.
+3. Enter PeopleOS and start onboarding.
+```
 
 ## What it does
 
@@ -125,11 +126,12 @@ openclaw onboard --install-daemon
 
 然后发送一次以下指令激活 PeopleOS 模式：
 
-> 接下来，你将获得 PeopleOS 模式，用于我的人际关系分析。
->
-> 1. `git clone https://github.com/keithhchen/peopleos.git`
-> 2. 记录到 `USER.md` 中：每当用户提到 peopleos、发送聊天记录、或聊到人际关系问题，请进入 peopleos 目录并工作
-> 3. 现在，启动 peopleos 模式并开始 onboarding
+```
+PeopleOS 安装
+1. `git clone https://github.com/keithhchen/peopleos.git`
+2. 记录到 `USER.md` 中：每当用户提到 peopleos、发送聊天记录、或聊到人际关系问题，请进入 peopleos 目录并工作
+3. 启动 peopleos 模式并开始 onboarding
+```
 
 ## 它是什么
 
