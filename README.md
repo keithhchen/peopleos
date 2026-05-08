@@ -64,8 +64,9 @@ Lives entirely on your machine. No cloud, no sync, no telemetry.
 
 **Memory that grows on its own.** Each conversation updates the right files. No tagging, no maintenance — just talk.
 
-<img width="494" height="168" alt="peopleos_folder_structure" src="https://github.com/user-attachments/assets/137a20fd-6e50-4b49-b0cf-3da7167d65d3" />
+**A gentle nudge.** PeopleOS notices when someone you have feelings about has gone quiet on your end. Some afternoon, it sends one line — *"Last time you said you wanted to clear something up with them. How did that go?"* No alerts. No checklists. One sentence, pulling the thread back into your hand.
 
+<img width="494" height="168" alt="peopleos_folder_structure" src="https://github.com/user-attachments/assets/137a20fd-6e50-4b49-b0cf-3da7167d65d3" />
 
 ## Why this isn't a Skill
 
@@ -145,6 +146,8 @@ openclaw onboard --install-daemon
 **三层解读，三个回复。** 发生了什么、对方在想什么、你在哪——给你 2–3 条可直接发送的回复，标注推荐。
 
 **记忆自然生长。** 每次对话自动更新对应文件。无需标签、无需维护——聊，就够了。
+
+**轻轻戳你一下。** PeopleOS 会留意那些你慢慢没再提起的人——尤其是你写过情绪的那些。某个下午，它会发来一句：*「上次你说想跟 TA 说清楚那件事——后来呢？」* 不堆通知，不列任务。就一句话，把那条线索递回你手里。
 
 ## 为什么不做成 Skill
 
