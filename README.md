@@ -64,6 +64,9 @@ Lives entirely on your machine. No cloud, no sync, no telemetry.
 
 **Memory that grows on its own.** Each conversation updates the right files. No tagging, no maintenance — just talk.
 
+<img width="494" height="168" alt="peopleos_folder_structure" src="https://github.com/user-attachments/assets/137a20fd-6e50-4b49-b0cf-3da7167d65d3" />
+
+
 ## Why this isn't a Skill
 
 PeopleOS isn't a Claude Code skill, and the difference matters. A skill is a recipe — instructions for how an agent should behave on a task. PeopleOS is something else: a loosely-defined file system on your disk that grows over time. Each person gets a folder. Every screenshot, email, or chat you paste is transcribed and filed. The patterns in how you handle conflict, what you avoid, what you actually want — all written to plain markdown you can read, edit, grep, and version with git.
