@@ -1,4 +1,4 @@
-<img width="1248" height="1248" alt="peopleos_logo" src="https://github.com/user-attachments/assets/bc2cfa19-62f3-489e-9d1a-03f0be88aaab" />
+<img width="300" alt="peopleos_logo" src="https://github.com/user-attachments/assets/bc2cfa19-62f3-489e-9d1a-03f0be88aaab" />
 
 # PeopleOS
 
